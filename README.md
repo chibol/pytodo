@@ -11,7 +11,7 @@ After you've done so, you can perform the following steps:
 ```
 $ git clone https://github.com/chibol/pytodo --depth 1
 $ cd ./pytodo
-$ python ./main.py -h # Outputs all the available commands
+$ python ./src/main.py -h # Outputs all the available commands
 ```
 
 ### Licensing
