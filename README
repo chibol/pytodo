@@ -1,0 +1,14 @@
+project(1): A simple command-line TODO app
+This CLI tool allows you to add, update, delete, and view all of your todo items.
+For more information, you can do 'main.py -h' to get detailed info about the parameters.
+
+-- Installation --
+Installation is pretty straightforward, you only need to have python installed.
+After you've done so, you can perform the following steps:
+$ git clone https://github.com/chibol/pytodo --depth 1
+$ cd ./pytodo
+$ python ./main.py -h # Outputs all the available commands
+
+-- Licensing --
+All of my personal projects including this one are licensed under the MIT permissive license.
+You can find more details in the LICENSE file.
